@@ -401,7 +401,7 @@ Add wallet connection:
 
 ---
 
-## Design System Prompt (for Consistency)
+## Design System (for Consistency)
 
 ```
 Establish a design system for the application:
