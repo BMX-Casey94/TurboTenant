@@ -401,7 +401,7 @@ Add wallet connection:
 
 ---
 
-## Design System (for Consistency)
+## Design System - Feed to Cursor (for Consistency)
 
 ```
 Establish a design system for the application:
